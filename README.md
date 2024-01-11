@@ -2,6 +2,9 @@
 My name is Valeria.
 I've been working as a QA engineer since 2017.
 I'm currently learning Python and Test Automation.
+
+### My technology stack
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow"/>
 <!--
 **ChikinaValeria/ChikinaValeria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
