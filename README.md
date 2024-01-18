@@ -6,6 +6,8 @@ I'm currently learning Python and Test Automation.
 ### My technology stack
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=Postman&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Selenium-blue?style=for-the-badge&logo=Selenium&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=yellow"/>
 <!--
 **ChikinaValeria/ChikinaValeria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
