@@ -1,13 +1,16 @@
 ### Hi there 👋
-My name is Valeria.
-I've been working as a QA engineer since 2017.
-I'm currently learning Python and Test Automation.
+I'm Valeria, a QA Engineer with 6+ years of experience, currently transitioning into the world of Data.
+I'm learning Python and building data pipelines and analytical models to explore my personal nutrition and digestive health data.
 
 ### My technology stack
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=Postman&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Selenium-blue?style=for-the-badge&logo=Selenium&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=yellow"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/FastAPI-blue?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Pydantic-blue?style=for-the-badge&logo=Pydantic&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=Postman&logoColor=yellow" alt="Postman"/>
+</p>
 <!--
 **ChikinaValeria/ChikinaValeria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
